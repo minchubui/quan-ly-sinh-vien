@@ -617,7 +617,7 @@ public class QuanLySinhVien {
                     hopLe = true;
 
                 } else {
-                    System.out.println("Thong tin sinh vien co MSSV " + mssv + "la:");
+                    System.out.println("Thong tin sinh vien co MSSV " + mssv + " la:");
                     printStudents(students);
                     hopLe = true;
                 }
