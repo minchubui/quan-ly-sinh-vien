@@ -1,0 +1,5 @@
+20206288,Than Thi My Huyen,08/11/2001,65,Cong nghe thong tin va Truyen thong,IT1 03 - K65
+20206300,Nguyen Huong Quynh,29/10/2002,65,Cong nghe thong tin va Truyen thong,IT1 03 - K65
+20206220,Le The Vinh,15/10/2002,65,Toan ung dung va Tin hoc,MI1 03 - K65
+20206240,Tran Thuy Huong,04/12/2001,65,Cong nghe thong tin va Truyen thong,IT1 03 - K65
+20206282,Tran Huy Hoang,18/11/2002,65,Toan ung dung va Tin hoc,MI2 02 - K65

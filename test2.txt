@@ -1,0 +1,40 @@
+20227211,Le Thi Hai Anh,13/08/2004,67,Toan ung dung va Tin hoc,MI2 02 - K67
+20227212,Nguyen Quang Anh,13/08/2004,67,Toan ung dung va Tin hoc,MI2 02 - K67
+20227211,Tran Hai Anh,13/08/2004,67,Toan ung dung va Tin hoc,MI2 02 - K67
+20227172,Pham Thi Anh,13/08/2004,67,Toan ung dung va Tin hoc,MI2 01 - K67
+20227189,Phung Thai Bao,12/06/2004,67,Toan ung dung va Tin hoc,MI2 01 - K67
+20227189,Phan Nhan Chinh,13/10/2004,67,Toan ung dung va Tin hoc,MI2 01 - K67
+20227191,Nguyen Tuan Dung,06/10/2004,67,Toan ung dung va Tin hoc,MI1 01 - K67
+20227225,Mai Thanh Duy,07/04/2004,67,Toan ung dung va Tin hoc,MI1 01 - K67
+20227226,Vu Luong Duy,02/09/2004,67,Toan ung dung va Tin hoc,MI1 01 - K67
+20227223,Nguyen Thuy Duong,26/02/2004,67,Toan ung dung va Tin hoc,MI1 01 - K67
+20227218,Pham Quoc Dai,02/09/2004,67,Toan ung dung va Tin hoc,MI1 02 - K67
+20227220,Cao Sy Doan,11/04/2004,67,Toan ung dung va Tin hoc,MI1 02 - K67
+20220085,Lo Duy Duc,10/08/2004,67,Toan ung dung va Tin hoc,MI1 02 - K67
+20227190,On Minh Duc,15/09/2004,67,Toan ung dung va Tin hoc,MI1 02 - K67
+20227194,Dinh Minh Ha,03/06/2004,67,Toan ung dung va Tin hoc,MI1 02 - K67
+20227195,Ngo Thi Viet Hai,13/08/2004,67,Toan ung dung va Tin hoc,MI1 03 - K67
+20227229,Dao Dinh Han,13/08/2004,67,Toan ung dung va Tin hoc,MI1 03 - K67
+20227196,Ho Trung Hieu,13/08/2004,67,Toan ung dung va Tin hoc,MI1 03 - K67
+20227231,Dong Van Sy Hoang,13/08/2004,67,Toan ung dung va Tin hoc,MI1 03 - K67
+20227177,Leu Thi Hong,13/08/2004,67,Toan ung dung va Tin hoc,MI1 03 - K67
+20227179,Nguyen Ngoc Huy,13/08/2004,67,Toan ung dung va Tin hoc,MI1 03 - K67
+20227233,Mai Viet Hung,13/08/2004,67,Toan ung dung va Tin hoc,MI1 02 - K67
+20227178,Tran Xuan Hung,13/08/2004,67,Toan ung dung va Tin hoc,MI1 02 - K67
+20227237,Nguyen Hoang Anh Kiet,13/08/2004,67,Toan ung dung va Tin hoc,MI1 02 - K67
+20227236,Le Ngoc Trung Kien,13/08/2004,67,Toan ung dung va Tin hoc,MI2 02 - K67
+20227239,Vu Thi Lien,13/08/2004,67,Toan ung dung va Tin hoc,MI2 02 - K67
+20227241,Hoang Khanh Linh,13/08/2004,67,Toan ung dung va Tin hoc,MI2 02 - K67
+20227242,Hoang Phuong Ly,13/08/2004,67,Toan ung dung va Tin hoc,MI2 02 - K67
+20227181,Nguyen Thi Huong Ly,13/08/2004,67,Toan ung dung va Tin hoc,MI2 02 - K67
+20227244,Ha Duc Manh,13/08/2004,67,Toan ung dung va Tin hoc,MI2 02 - K67
+20227245,Do Hoang Minh,13/08/2004,67,Toan ung dung va Tin hoc,MI2 02 - K67
+20227246,Truong Thi My,13/08/2004,67,Toan ung dung va Tin hoc,MI2 02 - K67
+20227247,Nguyen Hoang Nam,13/08/2004,67,Toan ung dung va Tin hoc,MI2 02 - K67
+20200092,Nguyen Tai Quang Dinh,13/08/2002,65,Toan ung dung va Tin hoc,MI1 01 - K65
+20200313,Nguyen Trinh Khang,10/03/2002,65,Toan ung dung va Tin hoc,MI1 01 - K65
+20200505,Nguyen Duc Quan,28/11/2002,65,Toan ung dung va Tin hoc,MI1 01 - K65
+20200599,Do Dieu Thao,27/07/2002,65,Toan ung dung va Tin hoc,MI1 02 - K65
+20204811,Nguyen Duc Anh,09/09/2002,65,Toan ung dung va Tin hoc,MI1 02 - K65
+20200460,Le Hai Phong,13/03/2002,65,Toan ung dung va Tin hoc,MI1 02 - K65
+20206220,Le The Vinh,15/10/2002,65,Toan ung dung va Tin hoc,MI1 03 - K65
