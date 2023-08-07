@@ -1,10 +1,5 @@
 //Bùi Minh Châu 20210110
-/* Chủ đề 5: Xây dựng chương trình quản lý hồ sơ sinh viên 
-- Nhập thông tin sinh viên (mã sinh viên – số, họ tên, ngày sinh, khóa học, khoa viện, lớp) 
-- Cập nhật thông tin sinh viên 
-- Sắp xếp: theo lớp 
-- Tìm và hiển thị thông tin sinh viên: theo mã số, theo họ tên, lớp 
-- Lưu ra file, đọc từ file */
+
 
 import java.io.*;
 import java.util.*;
